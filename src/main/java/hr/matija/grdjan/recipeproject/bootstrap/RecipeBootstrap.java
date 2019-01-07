@@ -1,5 +1,5 @@
 package hr.matija.grdjan.recipeproject.bootstrap;
-import hr.matija.grdjan.recipeproject.controllers.domain.*;
+import hr.matija.grdjan.recipeproject.domain.*;
 import hr.matija.grdjan.recipeproject.repositories.CategoryRepository;
 import hr.matija.grdjan.recipeproject.repositories.RecipeRepository;
 import hr.matija.grdjan.recipeproject.repositories.UnitOfMeasureRepository;

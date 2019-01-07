@@ -1,6 +1,6 @@
 package hr.matija.grdjan.recipeproject.repositories;
 
-import hr.matija.grdjan.recipeproject.controllers.domain.Category;
+import hr.matija.grdjan.recipeproject.domain.Category;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.Optional;

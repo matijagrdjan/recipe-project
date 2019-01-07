@@ -1,6 +1,6 @@
 package hr.matija.grdjan.recipeproject.repositories;
 
-import hr.matija.grdjan.recipeproject.controllers.domain.UnitOfMeasure;
+import hr.matija.grdjan.recipeproject.domain.UnitOfMeasure;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.Optional;

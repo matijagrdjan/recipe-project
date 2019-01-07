@@ -1,4 +1,4 @@
-package hr.matija.grdjan.recipeproject.controllers.domain;
+package hr.matija.grdjan.recipeproject.domain;
 
 import lombok.Data;
 
